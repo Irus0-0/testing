@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="ojdbc6" value="project"/>
+		<level name="mybatis-3.4.6" value="project"/>
+		<level name="log4j-core-2.17.0" value="project"/>
+		<level name="log4j-api-2.17.0" value="project"/>
+	</levels>
+</component>
